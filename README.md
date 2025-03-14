@@ -50,7 +50,23 @@
 <h3>My GitHub Stats</h3>
 
 <img align="right" alt="Coding" width="300"
-    src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif">
+    src="https://media.giphy.com/media/9Vvpm6Be9gKOY9Ul3T/giphy.gif">
+    
+
+
+
+
+
+
+
+
+
+ <img align="right" alt="Coding" width="300"
+    src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif">
+
+
+
+
 <br>
 
 <p>
@@ -70,7 +86,24 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 
-
+<table>
+    <thead>
+        <tr>
+            <th>Pull Request Size</th>
+            <th>Pull Request Lifecycle</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><img
+                    src="https://next.ossinsight.io/widgets/official/analyze-repo-pull-requests-size-per-month/thumbnail.png?repo_id=41986369&amp;image_size=auto">
+            </td>
+            <td><img
+                    src="https://next.ossinsight.io/widgets/official/analyze-repo-pull-request-open-to-merged/thumbnail.png?repo_id=41986369&amp;image_size=auto">
+            </td>
+        </tr>
+    </tbody>
+</table>
 
 
 
